@@ -6,4 +6,4 @@ T4:PB13,
 T5:PB14, 
 T6:PB15
 
-Komentar:mikroprocesor smo sprogramirali tako, da bosta ob pritisku ustrezne tipke, zelena in modra LED utripali po spodnjem opisu.
+Komentar:mikroprocesor smo sprogramirali tako, da bosta ob pritisku ustrezne tipke, zelena in modra LED utripali po opisu.
